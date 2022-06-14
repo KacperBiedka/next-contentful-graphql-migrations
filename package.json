@@ -32,6 +32,7 @@
     "@types/react-dom": "18.0.4",
     "@types/tailwindcss": "^3.0.10",
     "babel-plugin-macros": "^3.1.0",
+    "contentful-migration": "^4.9.1",
     "dotenv": "^16.0.1",
     "eslint": "8.16.0",
     "eslint-config-next": "12.1.6",
